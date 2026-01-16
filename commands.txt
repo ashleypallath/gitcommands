@@ -1,0 +1,15 @@
+git --version
+git config --global user.name "ashley"
+git config --global user.email "ashleypallath29@gmail.com"\
+
+git status 
+git init
+git add .
+git commit -m "my first try"
+git log
+
+git branch -m main
+
+git remote add origin *copypaste gitlink*
+
+git clone *copypaste gitlink*
