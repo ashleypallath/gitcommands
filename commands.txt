@@ -4,13 +4,15 @@ git config --global user.email "ashleypallath29@gmail.com"\
 
 git status 
 git init
-git add .
-git commit -m "my first try"
-git log
-
 git branch -m main
 
+git add .
+git commit -m "my first try"
 git push -u origin
+
+git log
+
+
 
 git remote add origin *copypaste gitlink*
 
