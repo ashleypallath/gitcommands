@@ -12,8 +12,6 @@ git push -u origin
 
 git log
 
-
-
 git remote add origin *copypaste gitlink*
 
 git clone *copypaste gitlink*
